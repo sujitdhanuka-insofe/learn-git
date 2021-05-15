@@ -28,3 +28,5 @@ data.columns
 print(data.head())
 print("Accuracy = ", accuracy_score(y, y_pred))
 print("Recall   = ", recall_score(y, y_pred, pos_label='yes'))
+
+print("end of Predict")
