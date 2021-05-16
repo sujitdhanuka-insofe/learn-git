@@ -7,6 +7,8 @@ import numpy as np
 # add code for Random forest
 
 
+# add code for XGboost
+
 from sklearn.metrics import accuracy_score, recall_score
 
 PATH = os.getcwd()
